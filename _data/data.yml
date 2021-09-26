@@ -119,7 +119,7 @@ teaching:
         Featured in the biochemical society webinar series; [“How to deliver 
         biomolecular science honours research projects with limited lab bench time”](https://www.youtube.com/watch?v=xxVuaEaGsGM&list=PLKzT3b3RHQwj3cHWHHMnVfNxQxJOPs2uG&index=10&t=658s){:target="_blank"}.
 
-    - role: Computational class demonstrator
+    - role: Demonstrator, Computational classes
       time: 2019 - 2021
       details: |
         Demonstrator for computational practical classes and courses, 
@@ -127,11 +127,18 @@ teaching:
         Lead demonstrator for a computational practical class of 70 
         students, and responsible for subsequent support and marking of assignments. 
 
+
+    -role: Demonstrator, LeedsOmics Workshop
+      time: 2019
+      details: |
+        Demonstrating at an Introduction to RNA-Seq Data Analysis Workshop, 
+        teaching post graduate researchers.
+
     - role: Masters Buddy Scheme Leader
       time: 2019
       details: |
 
-    - role: Supervisor - Undergraduate Summer Student 
+    - role: Supervisor, Undergraduate Summer Student 
       time: 2019
       details: |
 
