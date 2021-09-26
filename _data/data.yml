@@ -1,6 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
-#
+# local build - bundle exec jekyll serve
 
 sidebar:
     about: FALSE # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -103,9 +103,9 @@ work_experience:
           * Organising aspects of the charities annual funding round, including peer review. 
 
 teaching:
-
     - role: Instructor, Workshop on Ribosome Profiling
       time: July 2021
+      company: Translation UK 
       details: |
         Teaching on a two half-day course for PhD students and postdoctoral researchers.
         Co-lead for beginners session on [analysis workflows and file formats](https://zenodo.org/record/5040212){:target="_blank"},
@@ -113,6 +113,7 @@ teaching:
 
     - role: Remote Masters Project Support
       time: 2020 - 2021
+      company: University of Leeds
       details: |
         Providing remote support for Masters students transferred from a 
         wet to dry lab project during the Covid-19 pandemic. 
@@ -121,33 +122,38 @@ teaching:
 
     - role: Demonstrator, Computational classes
       time: 2019 - 2021
+      company: University of Leeds
       details: |
         Demonstrator for computational practical classes and courses, 
         teaching undergraduates and post graduate researchers. 
         Lead demonstrator for a computational practical class of 70 
         students, and responsible for subsequent support and marking of assignments. 
 
-
-    -role: Demonstrator, LeedsOmics Workshop
+    - role: Demonstrator, RNA-seq Workshop
       time: 2019
+      company: LeedsOmics
       details: |
         Demonstrating at an Introduction to RNA-Seq Data Analysis Workshop, 
         teaching post graduate researchers.
 
     - role: Masters Buddy Scheme Leader
       time: 2019
+      company: University of Leeds
       details: |
 
     - role: Supervisor, Undergraduate Summer Student 
       time: 2019
+      company: University of Leeds
       details: |
 
     - role: Invigilator
       time: 2018 - 2020
+      company: University of Leeds
       details: |
 
     - role: Peer assisted learning mentor
       time: 2014 - 2016
+      company: University of Leeds
 
 projects:
     title: Projects
