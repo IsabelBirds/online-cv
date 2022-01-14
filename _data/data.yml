@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Isabel Birds
-    tagline: PhD Candidate
+    tagline:
     avatar: isabel_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -20,17 +20,17 @@ sidebar:
     twitter: '@IzBirds'
     orcid: 0000-0001-8173-3879
 
-    languages:
-      - idiom: R
-      - idiom: HyperSQL
-      - idiom: Bash
-      - idiom: Python
+#    languages:
+ #     - idiom: R
+   #   - idiom: Bash
+  #   - idiom: HyperSQL
+    #  - idiom: Python
 
     interests:
       - item: Rugby League
         link: https://www.thegryphon.co.uk/2018/11/09/in-a-league-of-their-own-university-of-leeds-womens-rugby/?fbclid=IwAR0tobWFB1-xeJWKTa6lWVqeynFVGwfoOTRR8N5MLxwpaNhauDxRjiUAMRs
       - item: Embroidery
-      - item: Inclusive and open research
+        link: https://www.instagram.com/birds_stitchin/ 
 
 
 #career-profile:
@@ -46,6 +46,26 @@ education:
     - degree: MNatSci, BSc (1st, Hons) with Industrial Experience
       university: Faculty of Mathematics and Physical Sciences, University of Leeds 
       time: 2013 - 2018
+
+work_experience:
+    - role: Data Analyst
+      time: Jan 2022 - Present
+      company: Open Data Services Co-operative
+
+    - role: Research Administrator
+      time: July 2015 - Aug 2016
+      company: Yorkshire Cancer Research
+      details: |
+        Industrial Placement as a Research Administrator, extended to include a summer placement. 
+        Returned for summer 2017 and 2018.
+        
+       # Duties included:
+        #  * Maintaining financial scrutiny and forecasting the future 
+         # spend of an £18.4 million awards portfolio.
+          #* Preparing grant applications to outside funders.
+          #* Creating patient facing leaflets. 
+          #* Organising aspects of the charities annual funding round, including peer review. 
+
 
 research_experience:
     - role: Data Analyst
@@ -85,22 +105,6 @@ research_experience:
 #      supervisors: Dr Mary J O’Connell
 #      details: |
 #        Project: The fine balance of missing data, model specification and sampling when reconstructing a molecular phylogeny of the chordates.
-
-
-work_experience:
-    - role: Research Administrator
-      time: July 2015 - Aug 2016
-      company: Yorkshire Cancer Research
-      details: |
-        Industrial Placement as a Research Administrator, extended to include a summer placement. 
-        Returned for summer 2017 and 2018.
-        
-        Duties included:
-          * Maintaining financial scrutiny and forecasting the future 
-          spend of an £18.4 million awards portfolio.
-          * Preparing grant applications to outside funders.
-          * Creating patient facing leaflets. 
-          * Organising aspects of the charities annual funding round, including peer review. 
 
 teaching:
     - role: Instructor, Workshop on Ribosome Profiling
