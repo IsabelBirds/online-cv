@@ -199,6 +199,12 @@ awards:
 publications:
     title: Publications
     papers:
+
+      - title: "Optimization of Ribosome Footprinting Conditions for Ribo-Seq in Human and <i>Drosophila melanogaster</i> Tissue Culture Cells"
+        link: https://doi.org/10.3389/fmolb.2021.791455
+        authors: Douka, K., Agapiou, M., <strong> Birds, I.</strong>, Aspden, J.L.
+        conference: Frontiers in Molecular Biosciences (2022)
+
       - title: "Cytoplasmic long non-coding RNAs are differentially regulated and translated during human neuronal differentiation"
         link: https://rnajournal.cshlp.org/content/early/2021/06/30/rna.078782.121
         authors: Douka, K.,<strong> Birds, I.</strong>, Wang, D., Kosteletos, A., Clayton, S., Byford, A., Vasconcelos, E.J.R., O’Connell, M.J, Deuchars, J., Whitehouse, A., Aspden, J.L.
