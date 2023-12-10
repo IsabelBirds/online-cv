@@ -7,14 +7,14 @@ sidebar:
     education: FALSE # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Isabel Birds
-    tagline:
+    name: Dr Isabel Birds
+    tagline: PhD | IATI Specialist | Member/Director
     avatar: isabel_profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: isabeljbirds@gmail.com
     phone: 
     website: #do not add http://
+    email:
     linkedin: isabel-birds-90ab05123
     github: IsabelBirds
     twitter: '@IzBirds'
@@ -38,19 +38,12 @@ sidebar:
   #  summary: |
    #   Summarise your career.
 
-education:
-    - degree: PhD in Molecular and Cellular Biology
-      university: Faculty of Biological Sciences, University of Leeds
-      time: 2018 - Present
-
-    - degree: MNatSci, BSc (1st, Hons) with Industrial Experience
-      university: Faculty of Mathematics and Physical Sciences, University of Leeds 
-      time: 2013 - 2018
-
 work_experience:
-    - role: Data Analyst
+    - role: Data Analyst and Member/Director
       time: Jan 2022 - Present
       company: Open Data Services Co-operative
+      details: |
+        Specialising in publisher and data user support for the International Aid Transparency Initiative.
 
     - role: Research Administrator
       time: July 2015 - Aug 2016
@@ -66,21 +59,29 @@ work_experience:
           #* Creating patient facing leaflets. 
           #* Organising aspects of the charities annual funding round, including peer review. 
 
+education:
+    - degree: PhD in Molecular and Cellular Biology
+      university: Faculty of Biological Sciences, University of Leeds
+      time: 2018 - 2023
+
+    - degree: MNatSci, BSc (1st, Hons) with Industrial Experience
+      university: Faculty of Mathematics and Physical Sciences, University of Leeds 
+      time: 2013 - 2018
 
 research_experience:
     - role: Data Analyst
       time: Feb - Apr 2021
       company: DECOVID
       details: |
-        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://www.decovid.org/copy-of-the-rs-covid-study){:target="_blank"}.
+        Project: [COVID-19 and Chronic Obstructive Pulmonary Disease](https://lida.leeds.ac.uk/partnerships/turing/turing-research-at-leeds/health-and-medical-sciences-programme/){:target="_blank"}.
         
         Three month placement as part of the University of Leeds Team. 
         DECOVID uses data from electronic patient records to answer clinically important questions related to COVID-19.   
 
     - role: PhD Project 
-      time: 2018 – Present
+      time: 2018 - 2023
       company: University of Leeds 
-      supervisors: Dr Julie Aspden, Dr Mary J O’Connell, Professor David Westhead
+      supervisors: Dr Julie Aspden, Dr Mary J OConnell, Professor David Westhead
       details: |
         Project: Dissecting the function and molecular evolution of long non-coding RNAs. 
 
